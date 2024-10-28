@@ -14,8 +14,8 @@ This project is a tool for tracking venture investments. Users can input investm
 
 1. Clone the repository:
 ```
-git clone <your-repo-url>
-cd venture-portfolio-tracker
+git clone git@github.com:SemenyukPavlo/contrary.git
+cd contrary
 ```
 
 2. Install dependencies:
